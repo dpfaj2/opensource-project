@@ -4,7 +4,7 @@
 
 ## 📞 Contact
 - Email: dpfaj321@dankook.co.kr
-- GitHub Link:
+- GitHub Link: https://github.com/dpfaj2
 
 ## 🧭 Summary
 > 현재 주전공인 통계데이터사이언스학과에서 통계학 및 SQL등을 배우며 데이터 연산, 관리, 응용하는 법을 배우고 있으며,
