@@ -25,6 +25,7 @@
 
 ## 🌍 Extracurricular Activities
 ### 교내 알고리즘 스터디 (2024.3 ~ 2024.5)
+- https://github.com/dpfaj2/coding-study/tree/main/lv.0
 - 프로그래머스 0 LEVEL 정복하기
 - 매주 문제 풀이 및 코드 리뷰 진행
 
